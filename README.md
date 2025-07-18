@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Johnathan Kim, computer engineering student and currently based on Seoul, South Korea.
+I'm Johnathan Kim, computer engineering student and currently based on Seoul, South Korea.  
 Feel free to contact me anytime.
