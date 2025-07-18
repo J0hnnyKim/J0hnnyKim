@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Johnathan's laboratory!
 
 <!--
 **J0hnnyKim/J0hnnyKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
